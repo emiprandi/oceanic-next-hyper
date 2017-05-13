@@ -5,4 +5,4 @@ Oceanic Next theme (by [Dmitri Voronianski](http://labs.voronianski.com/oceanic-
 
 
 # Installation
-Add `'emiprandi/oceanic-next-hyper'` to `plugins` in `~/.hyper.js`.
+Add `'oceanic-next-hyper'` to `plugins` in `~/.hyper.js`.
